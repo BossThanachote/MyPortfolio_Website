@@ -23,6 +23,15 @@ const projectsData = [
         gitUrl: "https://github.com/BossThanachote/logintest1",
         previewUrl: "https://bosstemplate01.netlify.app/",
     },
+    {
+      id:3,
+      title: "Shirt 3D Model Design",
+      description:"Designing your own 3D shirt with cool color",
+      image: "/img/3d_shirt.png",
+      tag:["All","No-Database"],
+      gitUrl: "https://github.com/BossThanachote/3D_SHIRT_V1",
+      previewUrl: "https://3-d-shirt-v1.vercel.app/",
+  },
     
 ];
 
