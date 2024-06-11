@@ -39,7 +39,7 @@ const projectsData = [
       image: "/img/ShopManagement",
       tag:["All","Database"],
       gitUrl: "https://github.com/BossThanachote/C-_OnlineShop",
-      previewUrl: "",
+      previewUrl: "https://3-d-shirt-v1.vercel.app/",
     },
     
 ];
