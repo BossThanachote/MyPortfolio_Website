@@ -32,7 +32,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 <hr>
 
-*link to website* : https://3-d-shirt-v1.vercel.app/
+*link to website* : https://portfolio-v2-fix1.vercel.app/
 
 
 ## Deploy on Vercel
