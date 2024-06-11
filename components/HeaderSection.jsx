@@ -31,10 +31,6 @@ const HeaderSection =() =>{
                           repeat={Infinity}
                         />
                     </h1>
-                    <p className="text-[#ADB7BE] text-base sm:text-lg lg:text-xl mb-6 ">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Maxime eaque mollitia 
-                    </p>
                     <div>
                         <button className="px-10 py-3 rounded-full mr-4 text-white bg-white hover:bg-slate-200 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500">Hire Me</button>
                         <button className="px-6 py-3 rounded-full bg-transparent hover:bg-slate-800 text-white border border-white mt-3">Download CV</button>
