@@ -45,7 +45,7 @@ const projectsData = [
       id:5,
       title: "Todo Website",
       description:"Website-Todoapp-CRUD with MongoDB",
-      image: "/img/ToDoapp.jpg",
+      image: "/img/ToDoapp.png",
       tag:["All","Database"],
       gitUrl: "https://github.com/BossThanachote/ToDo_APP--backend",
       previewUrl: "https://main--statuesque-souffle-81233c.netlify.app/",
