@@ -41,6 +41,15 @@ const projectsData = [
       gitUrl: "https://github.com/BossThanachote/C-_OnlineShop",
       previewUrl: "",
     },
+    {
+      id:5,
+      title: "Todo-app",
+      description:"Website-Todoapp-CRUD with MongoDB",
+      image: "/img/ToDoapp.jpg",
+      tag:["All","Database"],
+      gitUrl: "https://github.com/BossThanachote/ToDo_APP--backend",
+      previewUrl: "https://main--statuesque-souffle-81233c.netlify.app/",
+    },
     
 ];
 
