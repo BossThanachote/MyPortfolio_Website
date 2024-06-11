@@ -11,10 +11,13 @@ const TAB_DATA = [
             <ul className="list-disc pl-2">
                 <li>HTML</li>
                 <li>CSS</li>
+                <li>JavaScript</li>
+                <li>C#</li>
                 <li>Bootstrap</li>
                 <li>Tailwind</li>
-                <li>JavaScript</li>
                 <li>React.js</li>
+                <li>Next.js</li>
+                <li>MongoDB</li>
             </ul>
         )
     },
@@ -33,8 +36,9 @@ const TAB_DATA = [
         content:(
             <ul className="list-disc pl-2">
                 <li>Learning Code</li>
-                <li>Touch Some Grass ?</li>
-                <li>Playing Video Games</li>
+                <li>Reading Books</li>
+                <li>Watch movies</li>
+                <li>Exercise</li>
             </ul>
         )
     }

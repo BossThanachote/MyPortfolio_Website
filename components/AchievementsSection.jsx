@@ -20,8 +20,8 @@ const achievementsList = [
     value: "21",
   },
   {
-    metric: "IQ",
-    value: "200",
+    metric: "GPA",
+    value: "3.57",
   },
 ];
 

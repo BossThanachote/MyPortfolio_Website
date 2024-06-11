@@ -31,7 +31,15 @@ const projectsData = [
       tag:["All","No-Database"],
       gitUrl: "https://github.com/BossThanachote/3D_SHIRT_V1",
       previewUrl: "https://3-d-shirt-v1.vercel.app/",
-  },
+    },
+    {
+      id:4,
+      title: "ShopManagement",
+      description:"C# Project about ShopManagement",
+      image: "/img/ShopManagement",
+      tag:["All","Database"],
+      gitUrl: "https://github.com/BossThanachote/C-_OnlineShop",
+    },
     
 ];
 
