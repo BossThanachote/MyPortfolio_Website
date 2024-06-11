@@ -43,7 +43,7 @@ const projectsData = [
     },
     {
       id:5,
-      title: "Todo-app",
+      title: "Todo Website",
       description:"Website-Todoapp-CRUD with MongoDB",
       image: "/img/ToDoapp.jpg",
       tag:["All","Database"],
