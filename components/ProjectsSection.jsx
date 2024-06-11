@@ -36,7 +36,7 @@ const projectsData = [
       id:4,
       title: "ShopManagement",
       description:"C# Project about ShopManagement",
-      image: "/img/ShopMagement.JPG",
+      image: "/img/ShopMagement.jpg",
       tag:["All","Database"],
       gitUrl: "https://github.com/BossThanachote/C-_OnlineShop",
       previewUrl: "",
