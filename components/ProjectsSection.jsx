@@ -36,10 +36,10 @@ const projectsData = [
       id:4,
       title: "ShopManagement",
       description:"C# Project about ShopManagement",
-      image: "/img/ShopManagement",
+      image: "/img/ShopManagement.jpg",
       tag:["All","Database"],
       gitUrl: "https://github.com/BossThanachote/C-_OnlineShop",
-      previewUrl: "https://3-d-shirt-v1.vercel.app/",
+      previewUrl: "",
     },
     
 ];
